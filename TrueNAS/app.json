@@ -1,0 +1,10 @@
+{
+    "appid": "942370bc8656b68cae17b79a2a247bcc658571fd",
+    "name": "TrueNAS",
+    "website": "https://www.truenas.com",
+    "license": "BSD 2-Clause FreeBSD License",
+    "description": "TrueNAS is free and Open Source and is the successor to the wildly popular FreeNAS. It runs on virtually any x86_64 system and provides a broad set of features for many users. Plugin applications like Plex, NextCloud, and Asigra allow the functionality of a system to be customized for many use cases.",
+    "enhanced": true,
+    "tile_background": "dark",
+    "icon": "truenas.png"
+}
